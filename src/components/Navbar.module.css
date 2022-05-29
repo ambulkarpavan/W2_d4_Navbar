@@ -1,0 +1,29 @@
+.signup{
+   background-color:#ed64a6 ;
+ 
+   color:white;
+}
+
+.signin{
+    background-color: white;
+    font-weight: 0;
+    margin-left: 45%;
+    color: gery;
+    padding-left: 20px;
+    padding-right: 20px;
+
+}
+
+.main{
+    display: flex;
+    border: 1px solid;
+    padding: 10px;
+    gap: 10px;
+}
+
+.logo{
+   font-weight: bold;
+   padding-top: 6px;
+   margin-right: 60px;
+   margin-left: 20px;
+}
